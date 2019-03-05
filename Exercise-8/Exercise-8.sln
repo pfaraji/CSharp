@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordinString", "Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverseString-Parentheses", "reverseString-Parentheses\reverseString-Parentheses\reverseString-Parentheses.csproj", "{6ECAE5CE-D49B-4D8D-BB16-82E6F570A744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Words", "Reverse Words\Reverse Words\Reverse Words.csproj", "{A57F3528-8EDA-472D-BE5B-A9A989BA0788}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberOrNot", "PrimeNumberOrNot\PrimeNumberOrNot\PrimeNumberOrNot.csproj", "{11A835D4-D253-4ABF-B26B-3815BF2DBDEC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumrable -question", "IEnumrable -question\IEnumrable -question\IEnumrable -question.csproj", "{A95736FC-C6B9-4C73-86FB-7FB1A13F4708}"
@@ -24,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete Element at position array", "Delete Element at position array\Delete Element at position array\Delete Element at position array.csproj", "{2204E666-1019-452E-AE6F-A3F055E990A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-palinrome2-faraji", "1-palinrome2-faraji\1-palinrome2-faraji\1-palinrome2-faraji.csproj", "{2867A690-FD91-48AA-8D04-0E1A919306C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Words", "Reverse Words\Reverse Words\Reverse Words.csproj", "{A57F3528-8EDA-472D-BE5B-A9A989BA0788}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,10 +51,6 @@ Global
 		{6ECAE5CE-D49B-4D8D-BB16-82E6F570A744}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ECAE5CE-D49B-4D8D-BB16-82E6F570A744}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ECAE5CE-D49B-4D8D-BB16-82E6F570A744}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Release|Any CPU.Build.0 = Release|Any CPU
 		{11A835D4-D253-4ABF-B26B-3815BF2DBDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{11A835D4-D253-4ABF-B26B-3815BF2DBDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11A835D4-D253-4ABF-B26B-3815BF2DBDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -75,6 +71,10 @@ Global
 		{2867A690-FD91-48AA-8D04-0E1A919306C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2867A690-FD91-48AA-8D04-0E1A919306C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2867A690-FD91-48AA-8D04-0E1A919306C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57F3528-8EDA-472D-BE5B-A9A989BA0788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
