@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A57F3528-8EDA-472D-BE5B-A9A989BA0788}</ProjectGuid>
+    <ProjectGuid>{7E52E193-DA75-42D8-99C2-4D49186149AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Reverse_Words</RootNamespace>
-    <AssemblyName>Reverse Words</AssemblyName>
+    <RootNamespace>Exercise_8</RootNamespace>
+    <AssemblyName>Exercise-8</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
